@@ -1,0 +1,39 @@
+footer {
+    text-align: center;
+    background-color: grey; 
+    color: brown; 
+    padding: 1em; 
+}
+
+.Seguir{
+    font-weight: bolder; 
+    text-decoration: underline;
+    font-size: 50px
+}
+
+.formulariofooter {
+    margin-right: 1000px; 
+    position: relative; 
+    padding: 20px
+}
+	
+footer fieldset {
+    border: 2px solid
+}
+	
+footer legend { 
+    font-weight: bolder; 
+    height: 20px; 
+    text-decoration: underline; 
+    font-size: 15px; color: black;
+    font: oblique bold 80% cursive
+}
+	
+label { 
+    font-weight: bold; 
+    color: black; 
+    font-style: cursive;
+    font: oblique bold 100% cursive
+}
+
+ 
